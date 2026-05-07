@@ -1,0 +1,19 @@
+pkg update && pkg upgrade
+Ls
+Mkdir programadores-para-la-paz-actividades
+Ls
+Cd programadores-para-la-paz-acti
+Mkdir semana-1
+Mkdir semana-2
+Mkdir semana-3
+Ls
+Cd semana-2
+Nano preguntas-semana-2.txt
+Ls
+Reflexion-semana2.txt
+Nano reflexion-semana2.txt
+Cat reflexion-semana2.txt
+Nano comandos-semana2.txt
+
+
+
