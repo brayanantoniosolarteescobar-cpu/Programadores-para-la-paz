@@ -7,6 +7,3 @@ que las personas expresen sus opiniones
 sociedad  herramientas como git ayudan
 a organizar el trabajo técnico y mantener
 un registro de los cambios
-
-y
-
