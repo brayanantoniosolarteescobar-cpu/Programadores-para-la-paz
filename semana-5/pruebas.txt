@@ -1,0 +1,10 @@
+
+
+http://localhost:3000 Mostraría: "Servidor 
+funcionando correctamente"
+ 
+http://localhost:3000/saludo Mostraría: "Hola, 
+bienvenido"
+http://localhost:3000/mensaje/brayan
+Mostraría: "Hola brayan"
+
