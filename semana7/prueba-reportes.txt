@@ -1,0 +1,9 @@
+Al consultar la ruta GET /reportes, el sistema 
+muestra la lista de reportes registrados 
+anteriormente mediante POST. Cada reporte 
+aparece con un id, un tipo y una descripción. Si 
+no se ha registrado ningún reporte, la lista 
+aparece vacía. Cuando se agregan reportes, estos 
+se almacenan temporalmente en memoria mientras 
+el servidor esté encendido.
+
