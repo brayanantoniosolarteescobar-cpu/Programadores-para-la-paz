@@ -1,0 +1,4 @@
+- proteger contrasenas
+- no compartir credenciales
+- mantener sofware actualizado
+
