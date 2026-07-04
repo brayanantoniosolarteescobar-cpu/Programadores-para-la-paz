@@ -1,0 +1,17 @@
+Las metodologías ágiles ayudan a organizar mejor el 
+trabajo porque permiten planificar las tareas según 
+su prioridad y avanzar paso a paso. El backlog 
+facilita saber qué actividades son más importantes 
+y las iteraciones permiten revisar y mejorar 
+continuamente el proyecto. La automatización con 
+herramientas como n8n reduce el tiempo en tareas 
+repetitivas y mejora la coordinación del equipo. 
+Telegram también es útil para enviar avisos y mantener 
+informados a los participantes. Sin embargo, estas 
+herramientas deben usarse con responsabilidad para 
+proteger la información de las personas. Además, 
+siempre debe existir una revisión humana para evitar 
+errores. La buena organización, el trabajo en equipo 
+y el uso responsable de la tecnología contribuyen a 
+una participación ciudadana más eficiente y transparente
+ 
