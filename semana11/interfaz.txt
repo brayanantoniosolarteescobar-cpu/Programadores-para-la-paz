@@ -1,0 +1,10 @@
+La plataforma mostraría en la página principal las 
+causas o reportes disponibles para que cualquier 
+usuario pueda conocerlas. También tendría un formulario 
+donde los usuarios autorizados puedan registrar una 
+nueva causa con su título, descripción y fecha. Cada 
+publicación incluiría un botón de "Apoyar" y un contador 
+que indique cuántos apoyos ha recibido. El diseño debe 
+ser sencillo, fácil de entender y evitar mostrar 
+información personal de los usuarios.
+ 

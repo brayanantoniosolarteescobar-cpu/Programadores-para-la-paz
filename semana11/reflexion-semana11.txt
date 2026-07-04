@@ -1,0 +1,15 @@
+Considero que una plataforma para la participación 
+ciudadana necesita una base de datos porque permite 
+organizar la información y consultarla cuando sea 
+necesario. También es importante que cuente con 
+autenticación para que cada usuario acceda únicamente 
+a las funciones que le corresponden. De esta manera se 
+evita que personas no autorizadas modifiquen o consulten 
+información privada. Además, proteger los datos 
+personales genera confianza en la comunidad y reduce 
+el riesgo de un uso indebido de la información. Creo 
+que combinar una buena organización de los datos con 
+medidas de seguridad hace que la plataforma sea más 
+útil, transparente y confiable para todos los 
+participantes.
+ 

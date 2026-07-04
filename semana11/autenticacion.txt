@@ -1,0 +1,11 @@
+La autenticación es el proceso mediante el cual una 
+aplicación verifica la identidad de un usuario antes 
+de permitirle el acceso. El inicio de sesión ayuda a 
+que cada persona utilice únicamente las funciones que 
+le corresponden según sus permisos. Algunas partes de 
+la plataforma deben estar protegidas para evitar 
+modificaciones o consultas por personas no autorizadas. 
+Además, nunca deben mostrarse públicamente datos como 
+contraseñas, documentos de identidad, direcciones, 
+números de teléfono o cualquier otra información 
+privada que pueda afectar la seguridad de la comunidad. 
