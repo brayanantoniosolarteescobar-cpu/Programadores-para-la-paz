@@ -1,0 +1,11 @@
+Entidad: Causa 
+Campos: id, titulo, descripcion, 
+fecha. 
+Sirve para registrar la información de 
+cada causa creada por la comunidad
+Entidad: Apoyo 
+Campos: id, causa_id, nombre, fecha.
+Sirve para registrar las personas que apoyan una 
+causa y relacionarlas con ella mediante el campo 
+causa_id.
+ 

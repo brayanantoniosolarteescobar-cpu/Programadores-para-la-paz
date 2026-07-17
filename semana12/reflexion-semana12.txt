@@ -1,0 +1,17 @@
+Durante este curso aprendí que la tecnología puede ser 
+una herramienta muy útil para fortalecer la participación 
+ciudadana y la organización comunitaria. Comprendí la 
+importancia de desarrollar soluciones que ayuden a las 
+personas de forma sencilla y segura. También aprendí 
+sobre el uso de GitHub, Node.js, bases de datos y 
+automatización con n8n. Entendí que proteger los datos 
+personales es una responsabilidad fundamental en 
+cualquier sistema. Además, conocí cómo una plataforma 
+como "Petición en 3 Clics" puede facilitar la creación 
+de causas y el registro de apoyos. Este curso me permitió 
+relacionar la programación con las necesidades de la 
+comunidad. Considero que la tecnología tiene un gran 
+impacto social cuando se utiliza con responsabilidad, 
+respeto y compromiso. Me llevo conocimientos que podré 
+aplicar en futuros proyectos.
+ 
